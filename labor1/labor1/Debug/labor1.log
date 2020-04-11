@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\GitHub\lab1\labor1\labor1\Source.cpp(96,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\GitHub\lab1\labor1\labor1\Source.cpp(10,46): warning C4101: i: неиспользованная локальная переменная
+C:\GitHub\lab1\labor1\labor1\Source.cpp(90,8): warning C4101: randomD: неиспользованная локальная переменная
+  labor1.vcxproj -> C:\GitHub\lab1\labor1\Debug\labor1.exe
